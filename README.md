@@ -60,6 +60,8 @@ This task focuses on controlling CPU scheduling:
 
 
 ---
+<img width="207" height="302" alt="image" src="https://github.com/user-attachments/assets/5f5bec04-5217-4da9-8f05-a27391134201" />
+
 
 ## Assignments
 
